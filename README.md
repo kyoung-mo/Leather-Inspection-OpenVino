@@ -1,4 +1,6 @@
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://inspection-app-kooyoungmo.streamlit.app)
+[![Streamlit App](https://img.shields.io/badge/Streamlit-App-FF4B4B?logo=streamlit&logoColor=white)](https://inspection-app-kooyoungmo.streamlit.app)
+[![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![OpenVINO](https://img.shields.io/badge/OpenVINO-2024.6.0-0071C5?logo=intel&logoColor=white)](https://docs.openvino.ai/)
 
 # 🔍 가죽 이상 탐지 앱 (Leather Inspection App)
 
