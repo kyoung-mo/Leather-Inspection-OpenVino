@@ -1,3 +1,5 @@
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://inspection-app-kooyoungmo.streamlit.app)
+
 # 🔍 가죽 이상 탐지 앱 (Leather Inspection App)
 
 VGG16 전이학습 모델(.keras)을 활용한 가죽 표면 불량 탐지 웹 앱입니다.  
